@@ -50,7 +50,7 @@
   align-items: flex-start;
   font-weight: 400;
   font-size: 18px;
-  line-height: 24.3px;
+  line-height: 23px;
   font-style: normal;
 }
 
@@ -76,9 +76,9 @@
   z-index: 2;
   display: flex;
   flex-direction: column;
+  gap: 20px;
   justify-content: space-between;
   width: 100%;
-  min-height: 385px;
   color: #fff;
   font-weight: 700;
   font-size: 100px;
@@ -121,7 +121,6 @@
   color: #fff;
   font-weight: 400;
   font-size: 22px;
-  letter-spacing: 0%;
   text-transform: uppercase;
   word-spacing: 18px;
 }
@@ -262,7 +261,7 @@
 }
 
 .about__column {
-  margin: 133px 0 13px;
+  margin: 136px 0 13px;
   width: 100%;
 }
 
@@ -287,7 +286,7 @@
   grid-template-columns: repeat(3, 1fr);
   justify-content: space-between;
   align-items: start;
-  margin-top: 180px;
+  margin-top: 169px;
   padding: 0 50px;
   font-size: 18px;
 }
